@@ -57,8 +57,6 @@ The primary goal of this project is to develop a **real-time, accurate, and scal
 - [Ayan Sharma](https://www.linkedin.com/in/ayan-sharma-701476209)
 - [Dharmik Rakeshkumar Shah](https://www.linkedin.com/in/dharmikshah21/)
 
-## License
-This project is released under the **MIT License**.
 
 ## Acknowledgments
 We appreciate the **Voxel51 Hackathon** for providing this platform and the **DaSCI dataset** for making this project possible.
