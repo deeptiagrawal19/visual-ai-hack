@@ -35,7 +35,7 @@ The primary goal of this project is to develop a **real-time, accurate, and scal
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ironsight.git](https://github.com/deeptiagrawal19/visual-ai-hack
+   git clone https://github.com/your-repo/ironsight.git
    cd ironsight
    ```
 2. Install dependencies:
@@ -48,14 +48,14 @@ The primary goal of this project is to develop a **real-time, accurate, and scal
    ```
 
 ## Contributors
-- Urvansh Jignesh Shah
-- Cameron Murrill
-- Saanvi Kakde
-- Esther Abel
-- Deepti Ashok Agrawal
-- Sherwin Robinson Lobo
-- Ayan Sharma
-- Dharmik Rakeshkumar Shah
+- [Urvansh Jignesh Shah](https://www.linkedin.com/in/urvansh-shah/)
+- [Cameron Murrill](https://www.linkedin.com/in/cameronmurrill)
+- [Saanvi Kakde](https://www.linkedin.com/in/saanvi-kakde)
+- [Esther Abel](https://www.linkedin.com/in/abelesther/)
+- [Deepti Ashok Agrawal](https://www.linkedin.com/in/deepti-agrawal19/)
+- [Sherwin Robinson Lobo](https://www.linkedin.com/in/sherwinlobo/)
+- [Ayan Sharma](https://www.linkedin.com/in/ayan-sharma-701476209)
+- [Dharmik Rakeshkumar Shah](https://www.linkedin.com/in/dharmikshah21/)
 
 ## License
 This project is released under the **MIT License**.
